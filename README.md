@@ -94,12 +94,11 @@ EEG_AttentionDashboard
 
 The dashboard expects MATLAB .mat files containing an EEGLAB-style EEG structure:
 
---- matlab
+```matlab
 EEG.data
 EEG.srate
 EEG.chanlocs
----
-
+```
 
 ## Tools and software Used
 
