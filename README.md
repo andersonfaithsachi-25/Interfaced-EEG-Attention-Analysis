@@ -82,9 +82,9 @@ The dashboard provides:
 1. Open MATLAB
 2. Open the project folder
 3. Run:
----matlab
+'''matlab
 EEG_AttentionDashboard
----
+'''
 4. Click: "Load EEG Dataset"
 5. Select a compatible EEG `.mat` dataset.
 
